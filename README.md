@@ -5,6 +5,6 @@ Repository containing the code for the submission to the course COMS 6998 : Rein
 # Papers : 
 * [Bandits with unobserved cofounder](https://papers.nips.cc/paper_files/paper/2015/file/795c7a7a5ec6b460ec00c5841019b9e9-Paper.pdf)  
 * [Counterfactual Data Fusion for Online RL](http://proceedings.mlr.press/v70/forney17a/forney17a.pdf)  
-* [Structual Causal Bandits with non-manipulative variables](https://ojs.aaai.org/index.php/AAAI/article/view/4320)  
+* [PCH Theorem]([https://ojs.aaai.org/index.php/AAAI/article/view/4320](https://causalai.net/r60.pdf))  
 * [MDP with unobserved Cofounders](https://www.cs.purdue.edu/homes/eb/mdp-causal.pdf)  
 * [Transfer Learning in Muti-Armed Bandit: A Causal Approach](https://causalai.net/r25.pdf)  
