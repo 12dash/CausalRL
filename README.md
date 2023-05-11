@@ -7,4 +7,3 @@ Repository containing the code for the submission to the course COMS 6998 : Rein
 * [Counterfactual Data Fusion for Online RL](http://proceedings.mlr.press/v70/forney17a/forney17a.pdf)  
 * [PCH Theorem](https://causalai.net/r60.pdf)
 * [MDP with unobserved Cofounders](https://www.cs.purdue.edu/homes/eb/mdp-causal.pdf)  
-* [Transfer Learning in Muti-Armed Bandit: A Causal Approach](https://causalai.net/r25.pdf)  
